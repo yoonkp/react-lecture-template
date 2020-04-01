@@ -2,6 +2,8 @@
 
 이젠아카데미 수업용 리액트 예제 프로젝트 템플릿 입니다.
 
+[copyright&copy;itpaper.co.kr](https://blog.itpaper.co.kr)
+
 ## #01. 설치할 프로그램
 1. Node.js
    - npm 명령
