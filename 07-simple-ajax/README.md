@@ -3,7 +3,7 @@
 ## #01. 프로젝트 생성
 
 ```shell
-yarn create react-app 07-simple-sjax
+yarn create react-app 07-simple-ajax
 ```
 
 ### 1) 추가 패키지 설치
