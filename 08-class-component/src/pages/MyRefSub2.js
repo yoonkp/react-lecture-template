@@ -4,7 +4,7 @@ class MyRefSub2 extends Component {
     render() {
         return (
             <div>
-                
+
             </div>
         );
     }
