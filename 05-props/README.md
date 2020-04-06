@@ -13,6 +13,7 @@ yarn create react-app 05-props
 ```shell
 yarn add react-router-dom
 yarn add qs
+yarn add node-sass
 yarn add styled-components
 ```
 

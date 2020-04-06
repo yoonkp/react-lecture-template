@@ -13,6 +13,8 @@ yarn create react-app 04-stylesheet
 ```shell
 yarn add react-router-dom
 yarn add qs
+yarn add node-sass
+yarn add styled-components
 ```
 
 ### 2) 프로젝트 생성 후 기초작업

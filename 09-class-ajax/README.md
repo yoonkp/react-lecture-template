@@ -13,6 +13,7 @@ yarn create react-app 07-simple-sjax
 ```shell
 yarn add react-router-dom
 yarn add qs
+yarn add node-sass
 yarn add styled-components
 yarn add axios
 ```

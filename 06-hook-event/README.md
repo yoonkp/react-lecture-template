@@ -13,7 +13,14 @@ yarn create react-app 06-hook-event
 ```shell
 yarn add react-router-dom
 yarn add qs
+yarn add node-sass
 yarn add styled-components
+```
+
+#### 이 예제에서는 번외편으로 jQuery를 함께 사용해 본다.
+
+```shell
+yarn add jquery
 ```
 
 ### 2) 프로젝트 생성 후 기초작업

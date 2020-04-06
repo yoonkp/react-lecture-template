@@ -13,6 +13,7 @@ yarn create react-app 13-redux-news-viewer
 ```shell
 yarn add react-router-dom
 yarn add qs
+yarn add node-sass
 yarn add styled-components
 yarn add axios
 yarn add redux
@@ -66,7 +67,7 @@ yarn start
 import { combineReducers } from 'redux';
 
 export default combineReducers({
-    // 앞으로 추가될 모듈들이 이 위치에서 리덕스에 추가된다.    
+    // 앞으로 추가될 모듈들이 이 위치에서 리덕스에 추가된다.
 });
 ```
 

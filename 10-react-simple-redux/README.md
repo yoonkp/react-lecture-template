@@ -13,8 +13,9 @@ yarn create react-app 11-react-redux-counter
 ```shell
 yarn add react-router-dom
 yarn add qs
+yarn add node-sass
 yarn add styled-components
-yarn add axios              (여기서는 사용 안함)
+yarn add axios
 yarn add redux
 yarn add react-redux
 yarn add redux-actions
@@ -85,7 +86,7 @@ yarn start
 
 ### 1) 프레젠테이션 계층
 - props를 받아와서 화면에 UI를 보여주기만 하는 역할
-- 일반적인 컴포넌트 
+- 일반적인 컴포넌트
 
 ### 2) 컨테이너 계층
 - 리덕스와 연동되는 화면을 갖지 않는 컴포넌트
