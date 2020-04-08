@@ -1,9 +1,9 @@
-# 14-kakao-image-search
+# 13-kakao-image-search
 
 ## #01. 프로젝트 생성
 
 ```shell
-yarn create react-app 14-kakao-image-search
+yarn create react-app 13-kakao-image-search
 ```
 
 ### 1) 추가 패키지 설치

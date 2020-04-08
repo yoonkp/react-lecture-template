@@ -1,9 +1,11 @@
-# 12-redux-thunk-counter
+# 11-redux-thunk-counter
+
+> 앞에서 진행한 10번 프로젝트의 소스코드를 복사한 후, redux-thunk라는 미들웨어를 추가하는 예제 입니다.
 
 ## #01. 프로젝트 생성
 
 ```shell
-yarn create react-app 12-redux-thunk-counter
+yarn create react-app 11-redux-thunk-counter
 ```
 
 ### 1) 추가 패키지 설치

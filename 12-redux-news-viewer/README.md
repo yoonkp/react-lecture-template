@@ -1,9 +1,9 @@
-# 13-redux-news-viewer
+# 12-redux-news-viewer
 
 ## #01. 프로젝트 생성
 
 ```shell
-yarn create react-app 13-redux-news-viewer
+yarn create react-app 12-redux-news-viewer
 ```
 
 ### 1) 추가 패키지 설치

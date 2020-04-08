@@ -1,4 +1,4 @@
-# 11-react-redux-counter
+# 10-react-redux-counter
 
 ## #01. 프로젝트 생성
 
