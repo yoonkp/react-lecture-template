@@ -123,3 +123,12 @@ npm install --save-dev eslint-plugin-react
     "esversion": 6
 }
 ```
+
+----------------------------------
+
+<div style="padding: 5px 10px; background-color: #efefef">
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>
+<a xmlns:cc="http://creativecommons.org/ns#" href="https://blog.itpaper.co.kr" target="_blank" property="cc:attributionName" rel="cc:attributionURL">ITPAPER(호쌤,쭈쌤)</a>에 의해 작성된 <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">≪react-lecture-template≫</span>은(는) <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">크리에이티브 커먼즈 저작자표시-비영리-동일조건변경허락 4.0 국제 라이선스</a>에 따라 이용할 수 있습니다.<br>이 라이선스의 범위 이외의 이용허락을 얻기 위해서는 <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:leekh4232@gmail.com" rel="cc:morePermissions">leekh4232@gmail.com</a>으로 문의하십시오.
+</div>
+
+----------------------------------
