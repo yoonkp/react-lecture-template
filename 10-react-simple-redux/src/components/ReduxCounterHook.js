@@ -1,11 +1,11 @@
 import React from 'react';
 
-const CounterContainer = () => {
+const ReduxCounterHook = () => {
     return (
         <div>
-            
+
         </div>
     );
 };
 
-export default CounterContainer;
+export default ReduxCounterHook;

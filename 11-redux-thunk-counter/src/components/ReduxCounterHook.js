@@ -1,11 +1,11 @@
 import React from 'react';
 
-const NewsContainer = () => {
+const ReduxCounterHook = () => {
     return (
         <div>
-            
+
         </div>
     );
 };
 
-export default NewsContainer;
+export default ReduxCounter;
